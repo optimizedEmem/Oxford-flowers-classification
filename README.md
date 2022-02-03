@@ -7,3 +7,6 @@ Dataset: Oxford flowers
 Number of classes: 102 categories
 
 Library used: FastAI
+
+Evaluation metrics: Accuracy
+
